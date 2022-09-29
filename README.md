@@ -1,5 +1,5 @@
 ### WhatsApp MD user bot
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/m3JYK8?referralCode=DIQMbr)
 ### Setup
 
 1. Click [SCAN](https://levanter.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
