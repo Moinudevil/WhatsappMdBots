@@ -5,7 +5,7 @@
 1. Click [SCAN](https://levanter.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a session id in whatsapp, copy id only.
 3. If You don't have a account in [Railway](https://railway.app?referralCode=DIQMbr), Create a account.
-4. Now click the button to deploy
+4. Now click the button to deploy /n
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/m3JYK8?referralCode=DIQMbr)
 ### Setup (Heroku)
 
