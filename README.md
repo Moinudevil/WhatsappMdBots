@@ -1,6 +1,6 @@
 ### WhatsApp MD user bot
 
-### Setup (railway.app)
+### Setup (Railway)
 
 1. Click [SCAN](https://levanter.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 2. You will get a session id in WhatsApp, copy id only.
